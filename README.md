@@ -1,2 +1,2 @@
 # lingzhi.github.io
-# 一个做记录的网站
+# 一个记录love的网站
